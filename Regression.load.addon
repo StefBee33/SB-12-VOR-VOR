@@ -1,0 +1,25 @@
+LBL
+CLR
+CLR
+E'
+INV
+PRT
+ A
+INV
+PRT
+ B
+INV
+PRT
+A'
+INV
+PRT
+B'
+INV
+PRT
+ D
+INV
+PRT
+D'
+E
+CLR
+RTN
